@@ -13,7 +13,7 @@ export default function Home() {
             <header className="flex justify-between items-baseline mb-5">
               <h1 className="font-serif text-[48px] leading-[48px] font-light text-black relative inline-block group/name cursor-pointer">
                 Aman Rana
-                <span className="absolute left-0 -bottom-1 w-0 h-[2px] bg-black transition-all duration-300 group-hover/name:w-full"></span>
+                <span className="absolute left-0 -bottom-1 w-0 h-[2px] bg-[#f5c0c0] transition-all duration-300 group-hover/name:w-full"></span>
               </h1>
               <span className="font-serif text-[48px] leading-[48px] font-light text-[#f5c0c0] relative inline-block group/projects cursor-pointer">
                 Projects
@@ -28,14 +28,14 @@ export default function Home() {
                   Computer Science @{" "}
                   <a href="https://www.wlu.ca/programs/science/undergraduate/computer-science-ba-or-bsc-waterloo/index.html" target="_blank" rel="noopener noreferrer" className="relative inline-block group/wlu">
                     Wilfrid Laurier University
-                    <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-black transition-all duration-300 group-hover/wlu:w-full"></span>
+                    <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-[#f5c0c0] transition-all duration-300 group-hover/wlu:w-full"></span>
                   </a>
                 </li>
                 <li>
                   Recently worked part-time @{" "}
                   <a href="https://www.metroscg.com/" target="_blank" rel="noopener noreferrer" className="relative inline-block group/sci">
                     SCI Logistics
-                    <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-black transition-all duration-300 group-hover/sci:w-full"></span>
+                    <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-[#f5c0c0] transition-all duration-300 group-hover/sci:w-full"></span>
                   </a>
                 </li>
                 <li className="font-medium">Recent!</li>
@@ -46,7 +46,7 @@ export default function Home() {
                   Released{" "}
                   <a href="https://github.com/amanr1245/Query" target="_blank" rel="noopener noreferrer" className="relative inline-block group/query">
                     Query
-                    <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-black transition-all duration-300 group-hover/query:w-full"></span>
+                    <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-[#f5c0c0] transition-all duration-300 group-hover/query:w-full"></span>
                   </a>
                   , a search and recommendation engine
                 </li>
@@ -55,7 +55,7 @@ export default function Home() {
                   Placed 🥈 @{" "}
                   <a href="https://www.aiatl.io/" target="_blank" rel="noopener noreferrer" className="relative inline-block group/aiatl">
                     AI ATL
-                    <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-black transition-all duration-300 group-hover/aiatl:w-full"></span>
+                    <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-[#f5c0c0] transition-all duration-300 group-hover/aiatl:w-full"></span>
                   </a>
                   {" "}PrizePicks category
                 </li>
@@ -64,7 +64,7 @@ export default function Home() {
                   Working on a{" "}
                   <a href="https://github.com/amanr1245/Personal-Knowledge-AI-Assistant" target="_blank" rel="noopener noreferrer" className="relative inline-block group/pkai">
                     Personal AI Knowledge Assistant
-                    <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-black transition-all duration-300 group-hover/pkai:w-full"></span>
+                    <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-[#f5c0c0] transition-all duration-300 group-hover/pkai:w-full"></span>
                   </a>
                 </li>
                 <li className="pt-0.5 group cursor-pointer">
@@ -72,7 +72,7 @@ export default function Home() {
                   Wanna know more? Check out my{" "}
                   <a href="#" className="relative inline-block group/resume">
                     resume ↗
-                    <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-black transition-all duration-300 group-hover/resume:w-full"></span>
+                    <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-[#f5c0c0] transition-all duration-300 group-hover/resume:w-full"></span>
                   </a>
                 </li>
               </ul>
